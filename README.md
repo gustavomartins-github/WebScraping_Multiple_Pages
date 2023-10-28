@@ -1,8 +1,9 @@
-# WebScraping_Multiple_Pages
-Repositório destinado ao treino de aplicação de técnicas de web scraping com python sobre multiplas páginas de um mesmo site.
+# WebScraping de Multiplas Páginas
+Esse repositório consiste na aplicação de técnicas de WebScraping de multiplas páginas pará análise avançada de dados.
 
-Obs.: de início foi desenvolvido utilizado as duas bibliotecas:
-* requests
-* BeautifulSoup da biblioteca bs4
+### Gráfico para Análise
+![image](https://github.com/gustavomartins-github/WebScraping_Multiple_Pages/assets/72039007/d58ba319-a2c7-45d9-bfee-e4279bb63346)
 
-Contudo, na hora de coletar os preços deu ruim (não conseguia achar todos os preços). Precisei adaptar para o selenium
+### Referências 
+* Canal <a href = "https://www.youtube.com/watch?v=hnGHqJD0Ixc">Codifike</a> no Youtube.
+* Meu projeto: <a href = "https://github.com/gustavomartins-github/WebScraping-Kabum_Gamer_Monitors">WebScraping - Monitores Gamers da Kabum</a>
